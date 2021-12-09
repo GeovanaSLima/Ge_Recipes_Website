@@ -2,6 +2,8 @@
 
 <!-- <p align="center"><img src="https://img.shields.io/static/v1?label=&message=Live Demo&color=FC5C65&style=for-the-badge&logo=heroku" style="align-items:center"/></p> -->
 
+<p align="center"><img src="https://github.com/GeovanaSLima/Ge_Recipes_Website/blob/main/django-gereceitas.gif"  alt="Expanding Cards"/></p>
+
 
 </br>
 
