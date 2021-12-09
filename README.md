@@ -96,7 +96,7 @@ $ python manage.py runserver
 
 Você deve ver a seguinte imagem depois de rodar o código:
 
-<img src="https://raw.githubusercontent.com/GeovanaSLima/Ge_Alura_Receitas/main/runserver.PNG">
+<img src="https://github.com/GeovanaSLima/Ge_Recipes_Website/blob/main/runserver.PNG">
 
 
 </br>
