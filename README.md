@@ -1,6 +1,7 @@
 <h1 align="center">Alura Receita Website</h1>
 
-<p align="center"><img src="https://img.shields.io/static/v1?label=&message=Live Demo&color=FC5C65&style=for-the-badge&logo=heroku" style="align-items:center"/></p>
+<!-- <p align="center"><img src="https://img.shields.io/static/v1?label=&message=Live Demo&color=FC5C65&style=for-the-badge&logo=heroku" style="align-items:center"/></p> -->
+
 
 </br>
 
