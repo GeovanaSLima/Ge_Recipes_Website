@@ -43,7 +43,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/GeovanaSLima/Front-End-Challenge.git
+$ git clone https://github.com/GeovanaSLima/Ge_Recipes_Website.git
 ```
 
 
