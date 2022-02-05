@@ -158,7 +158,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 # ✒️ Autora
 
 <a href="https://learningdata.dev/sobre">
- <img style="border-radius:50%" src="https://media-exp1.licdn.com/dms/image/C4D03AQEeTSxE08-_QQ/profile-displayphoto-shrink_800_800/0/1628591938780?e=1642636800&v=beta&t=go-NA-niXJWY74fvMdvf9pRq0yKL5rT7WcnreLd9VDE" width="100px;" alt="Geovana Sousa"/>
+ <img style="border-radius:50%" src="https://avatars.githubusercontent.com/u/66534549?v=4" width="100px;" alt="Geovana Sousa"/>
  <br />
  <sub style="font-size:15px"><b>Geovana Sousa 🚀</b></sub></a>
 
