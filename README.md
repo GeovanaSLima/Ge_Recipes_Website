@@ -159,15 +159,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 <a href="https://learningdata.dev/sobre">  
- <img src="https://avatars.githubusercontent.com/u/66534549?v=4" alt="Geovana Sousa" width="100"/></div>
- <br />
- <sub style="font-size:15px"><b>Geovana Sousa 🚀</b></sub></a>
+ <img src="https://raw.githubusercontent.com/GeovanaSLima/GeovanaSLima/main/GitProfile.png" alt="Geovana Sousa"/>
+  <p><b>Geovana Sousa 🚀</b></p></a>
+<p><i>A passionate Data Scientist and Developer ❤️</i></br>
+   Entre em contato! 👋</p>
+ 
 
-
-
-_A passionate Data Scientist and Developer ❤️_
-
-Entre em contato! 👋🏽
 
 [![LearningData Badge](https://img.shields.io/badge/-LearningData-%23FC5C65?style=&logo=ghost)](https://learningdata.dev)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-%238390A2?style=&logo=adobe)](https://geovanasousa.com)
